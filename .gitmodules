@@ -1,3 +1,6 @@
 [submodule "Magic-8-Ball-iOS13"]
 	path = Magic-8-Ball-iOS13
 	url = https://github.com/appbrewery/Magic-8-Ball-iOS13
+[submodule "AutoLayout-iOS13"]
+	path = AutoLayout-iOS13
+	url = https://github.com/appbrewery/AutoLayout-iOS13.git
