@@ -4,3 +4,6 @@
 [submodule "AutoLayout-iOS13"]
 	path = AutoLayout-iOS13
 	url = https://github.com/appbrewery/AutoLayout-iOS13.git
+[submodule "Xylophone-iOS13"]
+	path = Xylophone-iOS13
+	url = ./Xylophone-iOS13
