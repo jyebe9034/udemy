@@ -7,3 +7,6 @@
 [submodule "Xylophone-iOS13"]
 	path = Xylophone-iOS13
 	url = ./Xylophone-iOS13
+[submodule "Quizzler-iOS13"]
+	path = Quizzler-iOS13
+	url = https://github.com/appbrewery/Quizzler-iOS13
