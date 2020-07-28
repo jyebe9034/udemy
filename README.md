@@ -8,3 +8,8 @@
 * Alignment, Pinning, Containers, Subview(UIView), Stack View(horizontal and vertical)
 * 기본적인 Alignment랑 Pinning은 기억하고 있었는데 Subview로 화면을 분할하고 Stack View로 편하게 정렬하 수 있는건 처음 배우는 느낌..  
 
+3. struct
+* struct는 기본적으로 immutable함.
+* struct 내부의 func에서 property의 값을 변경시키고 싶다면 func 키워드 앞에 mutating 이라는 키워드르 써줘야 함.
+* let으로 생성된 struct 객체는 내부의 mutating으로 선언된 func를 사용할 수 없음.(var로 생성된 경우만 가능)
+
