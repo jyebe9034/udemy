@@ -10,3 +10,6 @@
 [submodule "Quizzler-iOS13"]
 	path = Quizzler-iOS13
 	url = https://github.com/appbrewery/Quizzler-iOS13
+[submodule "Destini-iOS13"]
+	path = Destini-iOS13
+	url = https://github.com/appbrewery/Destini-iOS13.git
