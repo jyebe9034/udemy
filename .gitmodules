@@ -13,3 +13,6 @@
 [submodule "Destini-iOS13"]
 	path = Destini-iOS13
 	url = https://github.com/appbrewery/Destini-iOS13.git
+[submodule "BMI-Calculator-iOS13"]
+	path = BMI-Calculator-iOS13
+	url = https://github.com/appbrewery/BMI-Calculator-iOS13.git
