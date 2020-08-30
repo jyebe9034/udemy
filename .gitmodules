@@ -19,3 +19,6 @@
 [submodule "Clima-iOS13"]
 	path = Clima-iOS13
 	url = https://github.com/appbrewery/Clima-iOS13.git
+[submodule "Flash-Chat-iOS13"]
+	path = Flash-Chat-iOS13
+	url = https://github.com/appbrewery/Flash-Chat-iOS13.git
